@@ -14,8 +14,7 @@ I have created a comprehensive dashboard using Excel to analyze Walmart sales da
 3. Sales by Product Category:
 4. Customer Count per Year:
 5. Regional Sales Breakdown:
-6.Top 5 Profit-Making Customers:
-
+6. Top 5 Profit-Making Customers:
 
 
 
